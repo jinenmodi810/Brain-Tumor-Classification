@@ -19,15 +19,9 @@ A Brain Tumor Classification and Segmentation tool to easily detect from Magneti
     
     https://www.kaggle.com/aryanfelix/brats-2019-traintestvalid
 
-## Team
-* [Aryan Felix](https://github.com/AryanFelix)
-* [Jinen Modi](https://github.com/jinenmodi810)
-* [Nilay Gupta](https://github.com/nygupta)
 
-## Mentor
-* [Bijoyeta Roy](https://github.com/bijoyetaroy)
 
 ## License
 * MIT License
 
-    Copyright © Aryan Felix
+    Copyright © Jinen Modi
